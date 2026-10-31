@@ -37,3 +37,6 @@ streamlit run app.py
 Project Purpose
 
 This project was built to practice Python development, data visualization, and interactive web application development while creating a practical tool for student productivity.
+## Application Preview
+
+![StudySpace Dashboard](screenshot.png)
