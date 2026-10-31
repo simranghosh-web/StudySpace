@@ -1,0 +1,32 @@
+{
+    "attendance": {
+        "total": 7,
+        "attended": 4
+    },
+    "tasks": [
+        {
+            "id": "db76b3cf-dc66-4da0-8129-8090adca1f1d",
+            "title": "dsa",
+            "deadline": "2026-11-08",
+            "priority": "High",
+            "done": true
+        },
+        {
+            "id": "52f2763f-0794-4f0c-af1c-3cea7b3cb636",
+            "title": "analog",
+            "deadline": "2026-11-08",
+            "priority": "Medium",
+            "done": false
+        },
+        {
+            "id": "59e831a0-b478-4401-8c99-9a91553625a5",
+            "title": "analog",
+            "deadline": "2026-10-05",
+            "priority": "Medium",
+            "done": false
+        }
+    ],
+    "study_hours": {
+        "2026-11-01": 3.0
+    }
+}
